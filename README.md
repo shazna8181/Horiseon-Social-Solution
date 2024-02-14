@@ -6,7 +6,7 @@ Challenge-01
 * alt attribute applied for all images.
 
 
-![alt text](Assets/01-html-css-git-challenge-demo.png)
+![alt text](Assets/images/01-html-css-git-challenge-demo.png)
 
 
 
